@@ -1,4 +1,4 @@
-## Virtual Try On APP using PF-AFN
+## Virtual Try On WEB-APP using PF-AFN
 
 Install Anaconda or Miniconda to create a new/separate environment
 ```
